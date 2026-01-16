@@ -11,5 +11,5 @@ Hi! I’m Aarav Shroff, a Computer Science & Data Science major at UNC Charlotte
 - Project 3: Coming soon
 
 ## Blog
-- [Why Data Science in Social & Interdisciplinary Contexts Matters](blog/intro-post.md)
+- [Why Data Science in Social & Interdisciplinary Contexts Matters] (blog/intro-post.md)
 - 
