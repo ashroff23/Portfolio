@@ -8,3 +8,4 @@ Hi! I’m Aarav Shroff, a Computer Science & Data Science major at UNC Charlotte
 
 ## Blog
 - [Intro Blog Post](blog/intro-post.md)
+- [Week 2 Blog Post](blog/blog2.md)
